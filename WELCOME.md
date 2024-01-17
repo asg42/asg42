@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asg42
 - 👀 I’m interested in coding, anime/manga, teaching...
-- ✅ Basic Python certified (by HackerRank)
+- ✅ Basic Python certified (by HackerRank) + experienced in GUI frameworks using Python Tkinter and Pygame
 - 🌱 I’m currently learning C and JS in first year of college: Kalinga Institute of Industrial Technology (aka KIIT) India
 - 💞️ I’m looking to get hands on experience and learn through complex projects involving problem solving.
 - 📫 How to reach me ~ akashdeepsengupta42@gmail.com
